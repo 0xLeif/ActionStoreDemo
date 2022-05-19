@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/c",
+      "state" : {
+        "revision" : "8be47363b905a1a159647f7d04352b5660c90bc1",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "cachestore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/CacheStore",
+      "state" : {
+        "revision" : "b61a54593a3776054f8265dfa6233f4732514e2f",
+        "version" : "2.2.1"
+      }
+    },
+    {
+      "identity" : "flet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/FLet",
+      "state" : {
+        "revision" : "0ca1cd5a70e9f790bd3ef6f99c14e721bbce2386",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "o",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/o",
+      "state" : {
+        "revision" : "2721b5d5feab371ab6e6999a557f9c80f0426228",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "t",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/t",
+      "state" : {
+        "revision" : "78294df737c524f40267bca42beb8e10ca28aa41",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
